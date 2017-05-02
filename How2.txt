@@ -1,5 +1,5 @@
 # Please view the video follow_hand_demo_290716 for a demonstration of the starting process.
-
+asdf
 # Terminal 1
   rosclean purge -y
   roscore
